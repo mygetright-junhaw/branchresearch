@@ -9,4 +9,6 @@ some work from second branch
 another change from second branch
 3rd change from second branch
 to test fast forward
+
+now try again no ff commit. 
  ?>
