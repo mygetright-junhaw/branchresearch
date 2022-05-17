@@ -8,4 +8,5 @@ update some code for git SplDoublyLinkedList
 some work from second branch
 another change from second branch
 3rd change from second branch
+to test fast forward
  ?>
