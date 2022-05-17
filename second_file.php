@@ -1,5 +1,6 @@
 <?php
 to try ff
 
-some change from second branch
+
+this change is from second branch, need to merge to master and push. before that lets push to second branch first 
  ?>
